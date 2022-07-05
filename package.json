@@ -16,5 +16,8 @@
 		"node-red-dashboard": "~2.14.0",
 		"node-red-node-ui-table": "~0.3.10",
 		"node-red-contrib-music": "~2.2.0"
+	},
+	"engines": {
+		"node": ">=16.0.0"
 	}
 }
