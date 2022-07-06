@@ -1,9 +1,9 @@
-# nodered-heroku
+# Node-Red Dashboard
 
 A wrapper for deploying [Node-RED](http://nodered.org) into the [Heroku](https://www.heroku.com).
 
-- DEMO: Flow Editor - [https://nodered-dashboard.herokuapp.com/editor](https://nodered-heroku.herokuapp.com/editor)
-- DEMO: Dashboard UI - [https://nodered-dashboard.herokuapp.com](https://nodered-heroku.herokuapp.com)
+- DEMO: Flow Editor - [https://nodered-dashboard.herokuapp.com/editor](https://nodered-dashboard.herokuapp.com/editor)
+- DEMO: Dashboard UI - [https://nodered-dashboard.herokuapp.com](https://nodered-dashboard.herokuapp.com)
 
 # Warning: You will lost all saved flows every time heroku restart!
 
