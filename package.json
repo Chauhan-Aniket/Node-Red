@@ -6,6 +6,8 @@
 		"start": "node settings.js"
 	},
 	"dependencies": {
+		"express": "^4.18.1",
+		"node-red": "^2.2.2",
 		"node-red-contrib-play-audio": "^2.5.0",
 		"node-red-dashboard": "^3.1.7"
 	}
