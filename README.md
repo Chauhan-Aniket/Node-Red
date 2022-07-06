@@ -34,7 +34,4 @@ A wrapper for deploying [Node-RED](http://nodered.org) into the [Heroku](https:/
 # \*Some included nodes
 
 - Dashboard UI - node-red-dashboard
-- MQTT - node-red-contrib-aedes
-- Blynk Cloud - node-red-contrib-blynk-ws
-- Email - node-red-node-email
-- Telegram - node-red-contrib-telegrambot
+- Play Audio - node-red-contrib-play-audio
