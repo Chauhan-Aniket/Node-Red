@@ -35,3 +35,5 @@ A wrapper for deploying [Node-RED](http://nodered.org) into the [Heroku](https:/
 
 - Dashboard UI - node-red-dashboard
 - Play Audio - node-red-contrib-play-audio
+- Music - node-red-contrib-music
+- Tableify - node-red-contrib-tableify
